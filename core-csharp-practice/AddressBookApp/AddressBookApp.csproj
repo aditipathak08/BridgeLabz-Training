@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Address.cs" />
+    <Compile Include="Contact.cs" />
+    <Compile Include="AdBook.cs" />
+    <Compile Include="AbookSys.cs" />
+    <Compile Include="IAddress.cs" />
+    <Compile Include="IAddressBookSystem.cs" />
+    <Compile Include="IFileService.cs" />
+  </ItemGroup>
+
+</Project>
