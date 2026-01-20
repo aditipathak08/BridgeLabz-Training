@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\bin\Debug\net10.0\TrafficManagement.cs.exe
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\bin\Debug\net10.0\TrafficManagement.cs.deps.json
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\bin\Debug\net10.0\TrafficManagement.cs.runtimeconfig.json
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\bin\Debug\net10.0\TrafficManagement.cs.dll
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\bin\Debug\net10.0\TrafficManagement.cs.pdb
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.AssemblyInfo.cs
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.sourcelink.json
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.dll
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\refint\TrafficManagement.cs.dll
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.pdb
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\TrafficManagement.cs.genruntimeconfig.cache
+D:\BridgeLabz-Training\core-csharp-practice\scenariobased\TrafficManagement.cs\obj\Debug\net10.0\ref\TrafficManagement.cs.dll
