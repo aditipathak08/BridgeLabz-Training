@@ -1,0 +1,12 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Debug / build files
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# NuGet
+project.assets.json
