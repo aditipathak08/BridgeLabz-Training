@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\bin\Debug\net8.0\AddressBookApp.exe
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\bin\Debug\net8.0\AddressBookApp.deps.json
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\bin\Debug\net8.0\AddressBookApp.runtimeconfig.json
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\bin\Debug\net8.0\AddressBookApp.dll
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\bin\Debug\net8.0\AddressBookApp.pdb
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.AssemblyInfo.cs
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.sourcelink.json
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.dll
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\refint\AddressBookApp.dll
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.pdb
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\AddressBookApp.genruntimeconfig.cache
+D:\BridgeLabz-Training\core-csharp-practice\AddressBookApp\obj\Debug\net8.0\ref\AddressBookApp.dll

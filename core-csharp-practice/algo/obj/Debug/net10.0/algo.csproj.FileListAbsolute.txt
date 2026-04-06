@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.AssemblyInfo.cs
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.sourcelink.json
+D:\BridgeLabz-Training\core-csharp-practice\algo\bin\Debug\net10.0\algo.exe
+D:\BridgeLabz-Training\core-csharp-practice\algo\bin\Debug\net10.0\algo.deps.json
+D:\BridgeLabz-Training\core-csharp-practice\algo\bin\Debug\net10.0\algo.runtimeconfig.json
+D:\BridgeLabz-Training\core-csharp-practice\algo\bin\Debug\net10.0\algo.dll
+D:\BridgeLabz-Training\core-csharp-practice\algo\bin\Debug\net10.0\algo.pdb
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.dll
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\refint\algo.dll
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.pdb
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\algo.genruntimeconfig.cache
+D:\BridgeLabz-Training\core-csharp-practice\algo\obj\Debug\net10.0\ref\algo.dll

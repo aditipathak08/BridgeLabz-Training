@@ -1,0 +1,15 @@
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\bin\Debug\net10.0\reviewtoday.exe
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\bin\Debug\net10.0\reviewtoday.deps.json
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\bin\Debug\net10.0\reviewtoday.runtimeconfig.json
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\bin\Debug\net10.0\reviewtoday.dll
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\bin\Debug\net10.0\reviewtoday.pdb
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.AssemblyInfoInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.AssemblyInfo.cs
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.csproj.CoreCompileInputs.cache
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.sourcelink.json
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.dll
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\refint\reviewtoday.dll
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.pdb
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\reviewtoday.genruntimeconfig.cache
+D:\BridgeLabz-Training\core-csharp-practice\review\reviewtoday\obj\Debug\net10.0\ref\reviewtoday.dll
